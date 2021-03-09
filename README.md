@@ -1,0 +1,2 @@
+# newproj-pro
+WORD COUNT
